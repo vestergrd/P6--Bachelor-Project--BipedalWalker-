@@ -1,0 +1,1 @@
+I samarbejde med min studiegruppe tilpassede vi den generelle neurale netværksmodel: TD3, til at være en smallere og mere specifik model med fokus på at løse Bipedal Walkers hardcore-enviroment (fra OpenAI Gym), hvilket den kunne, i modsætning til den originale TD3-model. Projektet blev bygget i PyTorch.
